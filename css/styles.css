@@ -506,7 +506,6 @@ a {
 }
 
 .footer-subscribe {
-  display: flex;
   margin-left: auto;
 }
 .footer-form-text {
@@ -552,7 +551,6 @@ a {
   align-items: center;
   justify-content: center;
   flex-direction: row;
-  gap: 16px;
   border-radius: 4px;
   padding: 8px 24px;
   min-width: 165px;
@@ -662,7 +660,7 @@ a {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
-  padding-top: 72px;
+  margin-top: 24px;
   margin-bottom: 16px;
   max-width: 360px;
 }
