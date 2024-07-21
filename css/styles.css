@@ -622,8 +622,8 @@ a {
   position: absolute;
   top: 24px;
   right: 24px;
+  margin-bottom: 24px;
   border-radius: 50%;
-  display: flex;
   width: 24px;
   height: 24px;
   display: flex;
@@ -660,7 +660,6 @@ a {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
-  margin-top: 24px;
   margin-bottom: 16px;
   max-width: 360px;
 }
